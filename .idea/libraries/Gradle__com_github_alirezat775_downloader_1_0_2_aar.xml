@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.alirezat775:downloader:1.0.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6b90286761bfd72b8af540ce79a54410/jetified-downloader-1.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6b90286761bfd72b8af540ce79a54410/jetified-downloader-1.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6b90286761bfd72b8af540ce79a54410/jetified-downloader-1.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.alirezat775/downloader/1.0.2/1684d2d9a7cad9b38299ff4981692bc0fe546604/downloader-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
